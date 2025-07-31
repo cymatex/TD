@@ -3,8 +3,8 @@ PBR Gloss + Pseudo Reflections + Light-rays
 SUKR
 [![sukrgithub](https://github.com/user-attachments/assets/93e1b700-dd38-49e3-aba5-1afa28a6b1bf)](https://youtu.be/qwTmid8VBgU)
 SHIMMER
-![shimmer2](https://github.com/user-attachments/assets/d883f5d7-e9b5-402b-a5f8-5c409c20e90a)
+[![shimmer2](https://github.com/user-attachments/assets/d883f5d7-e9b5-402b-a5f8-5c409c20e90a)](https://youtu.be/1Q3u3dYbyc8)
 SOUL
-![soul](https://github.com/user-attachments/assets/62774f0c-8863-4dde-9ca7-415bbb7a9143)
+[![soul](https://github.com/user-attachments/assets/62774f0c-8863-4dde-9ca7-415bbb7a9143)](https://youtu.be/d8wcw-c7Rio)
 ILLUM
-![illum](https://github.com/user-attachments/assets/de137823-4823-48dd-8ed4-617f07cca735)
+[![illum](https://github.com/user-attachments/assets/de137823-4823-48dd-8ed4-617f07cca735)](https://youtu.be/u-rbuc6Yyp0)

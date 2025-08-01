@@ -1,3 +1,5 @@
+GLSL - FIRE EMITTER
+[![fireemitter-cover](https://github.com/user-attachments/assets/95363183-9b1e-4a10-b1ab-ea2336bd4a5a)](https://www.youtu.be/eVJ1839MjLc)
 PBR Gloss + Pseudo Reflections + Light-rays
 [![pbrgloss](https://github.com/user-attachments/assets/7e526f61-5aea-4fc7-bbb0-6a627cc50170)](https://www.youtu.be/eVJ1839MjLc)
 SUKR

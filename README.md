@@ -1,3 +1,5 @@
+GLSL - SSGI V2
+[![glsl-ssgiv2cover](https://github.com/user-attachments/assets/c792fd45-8ae3-4b3c-9309-d3f34b32a492)](https://youtu.be/qwTmid8VBgU)
 GLSL - FIRE EMITTER
 [![fireemitter-cover](https://github.com/user-attachments/assets/95363183-9b1e-4a10-b1ab-ea2336bd4a5a)](https://youtu.be/7Hpd3RGkUlo)
 PBR Gloss + Pseudo Reflections + Light-rays

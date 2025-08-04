@@ -1,3 +1,9 @@
+GOLD GLITTER
+[![goldglitter-cover](https://github.com/user-attachments/assets/ca411108-54f6-458f-8a2d-6a34db899118)](https://youtu.be/1EyrfC6g0XY)
+GLSL - PBR PARTICLE COLLISION (Compute Particles V3)
+[![glsl-compute](https://github.com/user-attachments/assets/f444d2af-acc7-4a08-bdbe-0c72b1da0a5c)](https://youtu.be/1EyrfC6g0XY)
+GLSL - GRASS + WIND PHYSICS
+[![glslgrass](https://github.com/user-attachments/assets/a2df6e11-ffa4-4fdd-a949-2f51dfb5db92)](https://youtu.be/1EyrfC6g0XY)
 GLSL - SSGI V2
 [![glsl-ssgiv2cover](https://github.com/user-attachments/assets/c792fd45-8ae3-4b3c-9309-d3f34b32a492)](https://youtu.be/1EyrfC6g0XY)
 GLSL - FIRE EMITTER

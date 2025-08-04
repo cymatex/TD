@@ -1,4 +1,4 @@
-GOLD GLITTER
+PBR GOLD GLITTER PARTICLES
 [![goldglitter-cover](https://github.com/user-attachments/assets/ca411108-54f6-458f-8a2d-6a34db899118)](https://youtu.be/1EyrfC6g0XY)
 GLSL - PBR PARTICLE COLLISION (Compute Particles V3)
 [![glsl-compute](https://github.com/user-attachments/assets/f444d2af-acc7-4a08-bdbe-0c72b1da0a5c)](https://youtu.be/1EyrfC6g0XY)
